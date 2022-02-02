@@ -1,0 +1,16 @@
+h1 {
+  background-color: pink;
+  font-family: "Roboto Mono", monospace;
+}
+
+ol li {
+  background-color: palegreen;
+}
+
+ul :nth-child(1) {
+  color: olive;
+}
+
+.headings {
+  background-color: orange;
+}
